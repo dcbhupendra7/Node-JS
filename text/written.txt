@@ -1,0 +1,2 @@
+This is just written from the file sync Hello how are you doing? 
+Created on function now() { [native code] })
